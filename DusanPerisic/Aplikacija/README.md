@@ -1,5 +1,5 @@
 # cms-wordpress-course-l1
 Kurs za WordPress platformu
 
-#aplikacija
+#Aplikacija
 Dusan Perisic
