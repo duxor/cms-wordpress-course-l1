@@ -1,0 +1,18 @@
+Important WP Plugins to Install: 
+
+	1) Akismet 
+	2) All in One SEO Pack 
+	3) Google XML Sitemaps
+	4) Google XML Sitemap for Videos
+	5) Chap Secure Login
+	6) Growmap Anti Spambot Plugin
+	7) Login LockDown
+	8) Replace WP-Version
+	9) Primary Feedburner
+	10) Replace WP-Version
+	11) Robots Meta
+	12) TablePress
+	13) W3 Total Cache
+	14) Wordfence Security
+	15) WP Smush.it
+	16) Buddypress
